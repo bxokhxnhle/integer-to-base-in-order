@@ -1,0 +1,26 @@
+D:\khanh\UW\1A\121\W1\Program\bin\Debug\netcoreapp3.1\Program.exe
+D:\khanh\UW\1A\121\W1\Program\bin\Debug\netcoreapp3.1\Program.deps.json
+D:\khanh\UW\1A\121\W1\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.json
+D:\khanh\UW\1A\121\W1\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.dev.json
+D:\khanh\UW\1A\121\W1\Program\bin\Debug\netcoreapp3.1\Program.dll
+D:\khanh\UW\1A\121\W1\Program\bin\Debug\netcoreapp3.1\Program.pdb
+D:\khanh\UW\1A\121\W1\Program\obj\Debug\netcoreapp3.1\Program.csprojAssemblyReference.cache
+D:\khanh\UW\1A\121\W1\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfoInputs.cache
+D:\khanh\UW\1A\121\W1\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfo.cs
+D:\khanh\UW\1A\121\W1\Program\obj\Debug\netcoreapp3.1\Program.csproj.CoreCompileInputs.cache
+D:\khanh\UW\1A\121\W1\Program\obj\Debug\netcoreapp3.1\Program.dll
+D:\khanh\UW\1A\121\W1\Program\obj\Debug\netcoreapp3.1\Program.pdb
+D:\khanh\UW\1A\121\W1\Program\obj\Debug\netcoreapp3.1\Program.genruntimeconfig.cache
+D:\khanh\UW\1A\121\Weekly Assigments\W3\wa3\bin\Debug\netcoreapp3.1\Program.exe
+D:\khanh\UW\1A\121\Weekly Assigments\W3\wa3\bin\Debug\netcoreapp3.1\Program.deps.json
+D:\khanh\UW\1A\121\Weekly Assigments\W3\wa3\bin\Debug\netcoreapp3.1\Program.runtimeconfig.json
+D:\khanh\UW\1A\121\Weekly Assigments\W3\wa3\bin\Debug\netcoreapp3.1\Program.runtimeconfig.dev.json
+D:\khanh\UW\1A\121\Weekly Assigments\W3\wa3\bin\Debug\netcoreapp3.1\Program.dll
+D:\khanh\UW\1A\121\Weekly Assigments\W3\wa3\bin\Debug\netcoreapp3.1\Program.pdb
+D:\khanh\UW\1A\121\Weekly Assigments\W3\wa3\obj\Debug\netcoreapp3.1\Program.csprojAssemblyReference.cache
+D:\khanh\UW\1A\121\Weekly Assigments\W3\wa3\obj\Debug\netcoreapp3.1\Program.AssemblyInfoInputs.cache
+D:\khanh\UW\1A\121\Weekly Assigments\W3\wa3\obj\Debug\netcoreapp3.1\Program.AssemblyInfo.cs
+D:\khanh\UW\1A\121\Weekly Assigments\W3\wa3\obj\Debug\netcoreapp3.1\Program.csproj.CoreCompileInputs.cache
+D:\khanh\UW\1A\121\Weekly Assigments\W3\wa3\obj\Debug\netcoreapp3.1\Program.dll
+D:\khanh\UW\1A\121\Weekly Assigments\W3\wa3\obj\Debug\netcoreapp3.1\Program.pdb
+D:\khanh\UW\1A\121\Weekly Assigments\W3\wa3\obj\Debug\netcoreapp3.1\Program.genruntimeconfig.cache
